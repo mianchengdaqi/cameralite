@@ -15,7 +15,7 @@ Step2 生成写真 - 用户基于自己的分身生成图片的主流程，涉�
 Step3 精修下载 - 用户结束图片生产流程后的操作，将资产备份到手机及过程中的充值消费。
 
 ## 3 流程图
-![[Flowchart.jpg]]
+![Flowchart](https://github.com/mianchengdaqi/cameralite/assets/145448656/9295f5b1-dc15-412c-a64a-3fd67122a8c5)
 
 ## 4 涉及到的工作内容
 产品经理经过梳理，可能涵盖基本需要实现的内容：
