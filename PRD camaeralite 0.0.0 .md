@@ -1,15 +1,16 @@
 
-> # 07.26 栾尚君 创建文档
+>  07.26 栾尚君 创建文档
 > 
-> # 07.27 补充流程图 和 原型说明
+>  07.27 补充流程图 和 原型说明
 > 
-> # 07.28 补充B类原型 和 上传图片质量打分-文案显示细节 重置规则细节 lora生成细节
+>  07.28 补充B类原型 和 上传图片质量打分-文案显示细节 重置规则细节 lora生成细节
 
 # 概述
 
 ## 流程图
 
-This content is only supported in a Feishu Docs
+![Flowchart_副本](https://github.com/mianchengdaqi/cameralite/assets/145448656/091800e7-6a1a-4de7-acdf-22680c19a1e9)
+
 
 ## 预计实现内容
 
